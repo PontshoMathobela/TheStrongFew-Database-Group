@@ -1,7 +1,14 @@
-Bookstore Database Project
+The Strong Few Bookstore Database Project
+
+Group Work
+Members:
+Pontsho Mathobela(Leader)
+Daniel Ngila
+Dennis Amutsa
 
 Overview
 
+This project will be completed in a group, with each member contributing to the design, implementation, and testing of the database.
 This project involves designing and implementing a MySQL database for a bookstore, storing information on books, authors, customers, orders, shipping, and more. The goal is to create a relational database that efficiently stores and retrieves data, providing valuable experience in database design, table creation, data loading, and user management.
 
 Tools and Technologies
@@ -54,6 +61,4 @@ The data can be accessed through:
 - APIs or web services for remote data access
 - Data visualization tools such as Tableau or Power BI for reporting and analytics
 
-Group Work
 
-This project will be completed in a group, with each member contributing to the design, implementation, and testing of the database.
