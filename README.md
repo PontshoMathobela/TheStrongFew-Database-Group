@@ -2,9 +2,9 @@ The Strong Few Bookstore Database Project
 
 Group Work
 Members:
-Pontsho Mathobela(Leader)
-Daniel Ngila
-Dennis Amutsa
+(1)Pontsho Mathobela(Leader),
+(2)Daniel Ngila,
+(3)Dennis Amutsa.
 
 Overview
 
