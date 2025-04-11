@@ -9,7 +9,7 @@ Members:
 Overview
 
 This project will be completed in a group, with each member contributing to the design, implementation, and testing of the database.
-This project involves designing and implementing a MySQL database for a bookstore, storing information on books, authors, customers, orders, shipping, and more. The goal is to create a relational database that efficiently stores and retrieves data, providing valuable experience in database design, table creation, data loading, and user management.
+It involves designing and implementing a MySQL database for a bookstore, storing information on books, authors, customers, orders, shipping, and more. The goal is to create a relational database that efficiently stores and retrieves data, providing valuable experience in database design, table creation, data loading, and user management.
 
 Tools and Technologies
 
